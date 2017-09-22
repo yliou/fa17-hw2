@@ -1,5 +1,5 @@
 class Foobar
   # ENTER CODE FOR Q2 HERE
-  def initialize(param)
+  def initialize(baz)
   end
 end

@@ -8,7 +8,7 @@ class Person
 
   def nickname
     # YOUR IMPLEMENTATION HERE
-    'nickname'
+    'delete_me'
   end
 
   def birth_year
@@ -18,11 +18,7 @@ class Person
 
   def introduction
     # YOUR IMPLEMENTATION HERE
-    'introduce'
+    'delete_me'
   end
 
-  def fib_number
-    # YOUR IMPLMENTATION HERE
-    0
-  end
 end
